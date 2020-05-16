@@ -1,0 +1,24 @@
+{
+  "name": "apprestapiuts",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolas161199/apprestapiuts.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "Nikolas Setiawan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikolas161199/apprestapiuts/issues"
+  },
+  "homepage": "https://github.com/Nikolas161199/apprestapiuts#readme"
+}
