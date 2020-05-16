@@ -1,4 +1,4 @@
-var mysql = requirel('mysql');
+var mysql = require('mysql');
 
 //buat komeksi database
 const conn = mysql.createConnection({
@@ -8,7 +8,7 @@ const conn = mysql.createConnection({
     database:'db_bengkel'
 });
 
-conn.connect((err)==>{
+conn.connect((err)=>{
     if (err) throw err;
     console.log('Mysql Terkoneksi');
 })
